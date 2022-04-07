@@ -348,8 +348,7 @@
     }
     
     #navbar_logo{
-        justify-items: center;
-        align-items: center;
+        display: block;
 }
 
 /*services*/
